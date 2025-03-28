@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Cores do App-->
+    <color name="appColor1">#006341</color>
+    <color name="appColor2">#00A859</color>
+    <color name="appColor3">#4D4D4D</color>
+    <color name="appColor4">#B3B3B3</color>
+    <color name="appColor5">#FFFFFF</color>
+
+    <!--Tela 1-->
+    <string name="btnIniciar">Calculadora IMC</string>
+    
+    <!--Tela 2-->
+    <string name="hintT2Peso">Peso(KG):</string>
+    <string name="hintT2Altura">Altura(M):</string>
+    <string name="btnCalculo">Calcular IMC</string>
+    <string name="btnLimpar">Limpar</string>
+    <string name="btnFechar">Fechar</string>
+
+    <!--Tela 3 - Abaixo do Peso-->
+    <string name="T3Titulo">Abaixo do Peso</string>
+    <string name="btnT3Fechar">Fechar</string>
+    <string name="T3TextoMotivador">Não se desanime! Uma boa alimentação pode trazer grandes mudanças!!</string>
+
+    <!--Tela 4 - Peso Normal-->
+    <string name="T4Titulo">Peso Normal</string>
+    <string name="btnT4Fechar">Fechar</string>
+    <string name="T4TextoMotivador">Você já está no caminho certo! Continue a cuidar do seu corpo!</string>
+
+    <!--Tela 5 - Sobrepeso-->
+    <string name="T5Titulo">Sobrepeso</string>
+    <string name="btnT5Fechar">Fechar</string>
+    <string name="T5TextoMotivador">Está tudo bem! Valorize as pequenas vitórias e celebre cada conquista!</string>
+
+    <!--Tela 6 - Obesidade grau 1-->
+    <string name="T6Titulo">Obesidade Grau 1</string>
+    <string name="btnT6Fechar">Fechar</string>
+    <string name="T6TextoMotivador">Não se preocupe com a velocidade da jornada, foque no progresso diário!</string>
+
+    <!--Tela 7 - Obesidade grau 2-->
+    <string name="T7Titulo">Obesidade Grau 2</string>
+    <string name="btnT7Fechar">Fechar</string>
+    <string name="T7TextoMotivador">As dificuldades são parte da jornada, mas cada pequeno esforço é um grande avanço!</string>
+
+    <!--Tela 8 - Obesidade grau 3-->
+    <string name="T8Titulo">Obesidade Grau 3</string>
+    <string name="btnT8Fechar">Fechar</string>
+    <string name="T8TextoMotivador">Você tem em si a força para superar qualquer desafio. Acredite em sua capacidade de mudança e vá em frente!</string>
+
+</resources>
